@@ -1,7 +1,7 @@
 # Sales Insight Dashboard using PowerBI
-## Sales insights project Powerbi Dashboard
 
-This project I learn from code basics youtube channel. you can find link is below.
+
+I learned this project from the Code Basics YouTube channel. You can find the link below.
 
 
 [code basics youtube Playlist](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
